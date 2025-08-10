@@ -8,7 +8,7 @@ The code is coming **August 2025** — follow along!
 
 ⭐ **Star this repo** to be notified the moment it goes live!
 
-<img src="https://mc3d.org/static/images/meta.png">
+<a href="https://mc3d.org"><img src="https://mc3d.org/static/images/meta.png" width="800"/></a>
 
 ---
 
